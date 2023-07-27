@@ -27,3 +27,12 @@ body {
     width: 100%;
     text-align: center;
 }
+
+@media screen and (max-width: 600px) {
+    .title {
+        font-size: 3rem;
+    }
+    .coming-soon {
+        font-size: 1.5rem;
+    }
+}
